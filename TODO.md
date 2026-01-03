@@ -1,0 +1,4 @@
+- [ ] Fix JSON serialization error for float32 in predictions
+- [ ] Replace deprecated use_container_width with width in dataframe
+- [ ] Simplify login page CSS to a basic version
+- [ ] Test the fixes in the Streamlit app
